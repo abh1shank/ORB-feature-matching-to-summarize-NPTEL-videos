@@ -15,3 +15,5 @@ similarly matching, if the similarity index is very high it would mean the frame
 5) Rest are written into a pdf file.
 
 Algorithm was run on a video clip of 10 min length, consisting of over 111,000 frames, It was able to extract 10 relevant frames from it.
+
+reference: https://arxiv.org/pdf/1710.02726
